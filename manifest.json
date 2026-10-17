@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Family Planner",
+  "short_name": "Family Planner",
+  "description": "A flexible bilingual planner for family routines, daily tasks, prayer, Quran, and personal goals.",
+  "lang": "en",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fff8fc",
+  "theme_color": "#fce7f3",
+  "icons": [
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
